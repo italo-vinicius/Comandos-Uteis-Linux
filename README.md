@@ -2,7 +2,7 @@
 Alguns comandos uteis para Linux
 
 
-ls => retorna a lista de diretórios presentes no diretório atual
+```ls => retorna a lista de diretórios presentes no diretório atual
 
 man ls => o 'man' retorna um manual de como funciona o comando ls(ou qualquer outro descrito junto ao 'man')
 
@@ -53,3 +53,5 @@ df -h => informa o armazenamento do seu Pc
 ncdu => escaneia todos os diretórios do pc e ordena as pastas por tamanho de uso de armazenamento
 
 history => retorna todos os comandos que você usou no terminal
+
+```
