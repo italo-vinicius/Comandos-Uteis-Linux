@@ -10,7 +10,8 @@ ls --help => o help mostra um resumo da funcionalidade do ls(ou qualquer outro c
 
 clear => limpa o terminal(pode usar control + L tambem)
 
-mkdir name => cria um diretório(substitua o name pelo nome do diretório). Caso queira criar mais de um diretório, posso passar outros parametros como argumentos(Ex: mkdir pasta1 pasta2 pasta3).E caso queira criar apenas um diretório com um nome composto, basta colocar aspas no nome.
+mkdir name => cria um diretório(substitua o name pelo nome do diretório). Caso queira criar mais de um diretório, 
+posso passar outros parametros como argumentos(Ex: mkdir pasta1 pasta2 pasta3).E caso queira criar apenas um diretório com um nome composto, basta colocar aspas no nome.
 
 cd nameDirectory => muda de diretório
 
@@ -32,7 +33,8 @@ mv oldName newName => modifica o nome do arquivo ou diretório
 
 cp nameFile /home/italo/pastaTeste => copia o arquivo para pastaTeste
 
-find . -name nameFile.txt => Tenta encontrar o arquivo nameFile em todos os diretórios presentes abaixo do diretório atual. Caso queira uma busca mais ampla, pode usar apenas *txt*(ou qualquer outra extensão) e ele encontrará tudo que tiver txt 
+find . -name nameFile.txt => Tenta encontrar o arquivo nameFile em todos os diretórios presentes abaixo do 
+diretório atual. Caso queira uma busca mais ampla, pode usar apenas *txt*(ou qualquer outra extensão) e ele encontrará tudo que tiver txt 
 
 rm nameFIle.txt => remove o arquivo txt..esse comando não remove diretórios
 
