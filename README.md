@@ -17,7 +17,7 @@ cd nameDirectory => muda de diretório
 
 cd .. => sobe um nivel de diretório
 
-pwd => imprime o diretório em que você se encontra atualmente
+pwd => imprime/cópia o diretório em que você se encontra atualmente
 
 whoami => imprime o usuário atual
 
